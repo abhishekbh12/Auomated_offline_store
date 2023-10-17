@@ -1,4 +1,4 @@
-# BigBazaar_cplusplus_project
+# Automated Offline Store Billing System
 
 this project contains two persons
 1) admin
